@@ -1,4 +1,6 @@
 
 tint2 &
-nitrogen --restore &
+( spacefm --desktop ) &
+volumeicon &
+nm-tray &
 ibus-daemon -drx
